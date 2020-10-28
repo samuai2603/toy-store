@@ -46,7 +46,7 @@
         <ul id="menu">
 		  <li><a href="home.php">Home</a></li>
 		  <li class="selected"><a href="index.php">Admin</a></li>         
-          <li><a href="contact.html">Manual report</a></li>
+          <li><a href="contact.php">Manual report</a></li>
         </ul>
       </div>
     </div>
