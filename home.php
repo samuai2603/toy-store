@@ -33,6 +33,13 @@
                     <h1><a href="index.php">ATN<span class="logo_colour">Toystore</span></a></h1>
                     <h2>Make kid happy</h2>
                 </div>
+		    <div id="menubar">
+        <ul id="menu">
+		  <li class="selected"><a href="home.php">Home</a></li>
+          <li class="selected"><a href="index.php">Admin</a></li>
+          <li><a href="contact.php">Manual report</a></li>
+        </ul>
+      </div>
             </div>
         </div>
         <div id="content_header"></div>
